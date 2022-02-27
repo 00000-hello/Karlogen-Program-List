@@ -1,7 +1,7 @@
 | Application  | Description |
 | ----------- | ---------- |
-|7-zip| A file manager|
-AIMP
+|7-zip|Open source file archiver|
+AIMP||
 autohotkey
 balabolka
 blender
