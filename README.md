@@ -1,7 +1,6 @@
 | Application  | Description |
 | ----------- | ---------- |
-
-7-zip
+|7-zip||
 AIMP
 autohotkey
 balabolka
