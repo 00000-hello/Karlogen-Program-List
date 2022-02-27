@@ -1,6 +1,6 @@
 | Application  | Description |
 | ----------- | ---------- |
-|7-zip||
+|7-zip| A file manager|
 AIMP
 autohotkey
 balabolka
