@@ -25,7 +25,7 @@ privacy.sexy scripts |Enforce privacy & security|https://privacy.sexy/|
 python|A high-level programming language|https://www.python.org|
 rainmeter|A desktop customization utility|https://www.rainmeter.net|
 startallback |Fix major Windows 11 UI issues|https://www.startallback.com|
-steam|A video game digital distribution service|store.steampowered.com/|
+steam|A video game digital distribution service|https://store.steampowered.com/|
 tails (on usb)|A portable os against surveillance and censorship|https://tails.boum.org/|
 twinkle tray|Manage the brightness levels of multiple monitors|https://twinkletray.com|
 ue5 |A game engine "real-time 3D creation tool" (needs nvidia/amd gpu?)|https://www.unrealengine.com/en-US/unreal-engine-5|
