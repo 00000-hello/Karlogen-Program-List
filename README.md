@@ -44,4 +44,11 @@ youtube-dl|A command-line program to download videos from youtube.com|https://yo
 (chrome extension) WebRTC Leak Shield|Prevent WebRTC leaks|https://chrome.google.com/webstore/detail/bppamachkoflopbagkdoflbgfjflfnfl|
 (website) Pixray|Generate images from text|https://pixray.gob.io/|
 (website) you feel like shit|A tool to help people who are struggling|https://youfeellikeshit.com/|
-(website)|||https://www.lifeline.org.au/crisis-chat/|
+(website) Lifeline Crisis Chat|Chat online with a Lifeline crisis supporter|https://www.lifeline.org.au/crisis-chat/|
+(website) Video gmae (idea) generator| Generate video game ideas|https://orteil.dashnet.org/gamegen|
+(website) Internet Archive| A Digital Library + Wayback Machine|https://archive.org/|
+(website) NoMachine|Free Remote Desktop For Everybody|https://www.nomachine.com/|
+(website) GitHub|This website|https://github.com/|
+(website) Google Translate Web - iTools|Google translate pages|http://itools.com/tool/google-translate-web-page-translator|
+(website) LunaPic| Free Online Photo Editor |https://www5.lunapic.com/editor/|
+(website) Artbreeder|Breed/Generate art|https://www.artbreeder.com/|
