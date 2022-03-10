@@ -19,20 +19,21 @@ no-edge|Remove edge|https://github.com/BiltuDas1/no-edge|
 notepad++|A text and source code editor|https://notepad-plus-plus.org/downloads/|
 obs studio w/ obs.live|A screencasting and streaming app|https://obsproject.com https://streamelements.com/selive|
 optimizer|Make windows faster & better|https://github.com/hellzerg/optimizer|
-powertoys |A set of utilities for customizing Windows.|
-privacy.sexy scripts |Enforce privacy & security|
-python|A high-level programming language|
-rainmeter|A desktop customization utility|
-search deflector |Forwards searches to a new browser and search engine.|
-startallback |Fix major Windows 11 UI issues|
-steam|A video game digital distribution service|
-tails (on usb)|A portable os against surveillance and censorship|
-twinkle tray|Manage the brightness levels of multiple monitors|
-ue5 |A game engine "real-time 3D creation tool" (needs nvidia/amd gpu?)|
-unity|A cross-platform game engine|
-vb cable / vb-audio virtual cable |A virtual link between your output and input|
-visual studio|An integrated development environment from Microsoft|
-vivaldi|An internet browser w/ more features & functionality (chromium based)|
-voicemeter banana|(Realtime?) advanced audio mixer application|
-vseeface|A Face and hand tracking VRM and VSFAvatar avatar puppeteering program|
-youtube-dl|A command-line program to download videos from youtube.com|
+powertoys |A set of utilities for customizing Windows.|https://docs.microsoft.com/en-us/windows/powertoys/|
+privacy.sexy scripts |Enforce privacy & security|https://privacy.sexy/|
+python|A high-level programming language|https://www.python.org|
+rainmeter|A desktop customization utility|https://www.rainmeter.net|
+startallback |Fix major Windows 11 UI issues|https://www.startallback.com|
+steam|A video game digital distribution service|store.steampowered.com/|
+tails (on usb)|A portable os against surveillance and censorship|https://tails.boum.org/|
+twinkle tray|Manage the brightness levels of multiple monitors|https://twinkletray.com|
+ue5 |A game engine "real-time 3D creation tool" (needs nvidia/amd gpu?)|https://www.unrealengine.com/en-US/unreal-engine-5|
+unity|A cross-platform game engine|https://unity.com|
+vb cable / vb-audio virtual cable |A virtual link between your output and input|https://vb-audio.com/Cable/|
+visual studio|An integrated development environment from Microsoft|https://visualstudio.microsoft.com|
+vivaldi|An internet browser w/ more features & functionality (chromium based)|https://vivaldi.com|
+voicemeter banana|(Realtime?) advanced audio mixer application|https://vb-audio.com/Voicemeeter/banana.htm|
+vseeface|A Face and hand tracking VRM and VSFAvatar avatar puppeteering program|https://www.vseeface.icu|
+youtube-dl|A command-line program to download videos from youtube.com|https://youtube-dl.org
+
+
