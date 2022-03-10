@@ -43,3 +43,5 @@ youtube-dl|A command-line program to download videos from youtube.com|https://yo
 (chrome extension) Unhook|A tool to prevent too much binging/bingeing on youtube|https://chrome.google.com/webstore/detail/khncfooichmfjbepaaaebmommgaepoid|
 (chrome extension) WebRTC Leak Shield|Prevent WebRTC leaks|https://chrome.google.com/webstore/detail/bppamachkoflopbagkdoflbgfjflfnfl|
 (website) Pixray|Generate images from text|https://pixray.gob.io/|
+(website) you feel like shit|A tool to help people who are struggling|https://youfeellikeshit.com/|
+(website)|||https://www.lifeline.org.au/crisis-chat/|
