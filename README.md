@@ -1,5 +1,5 @@
-| Application  | Description |
-| ----------- | ---------- |
+| Application  | Description | Link |
+| ----------- | ---------- | ---------- |
 |7-zip|A file archiver with a high compression ratio|
 autohotkey|A scripting language / tool used to automate keystrokes|
 balabolka|A Text-To-Speech (TTS) program|
