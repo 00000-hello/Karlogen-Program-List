@@ -36,9 +36,9 @@ voicemeter banana|(Realtime?) advanced audio mixer application|https://vb-audio.
 vseeface|A Face and hand tracking VRM and VSFAvatar avatar puppeteering program|https://www.vseeface.icu|
 youtube-dl|A command-line program to download videos from youtube.com|https://youtube-dl.org
 |||
-(chrome extension) Pin all tabs|Pins all tabs|
-(chrome extension) HTTPS Everywhere|Forces websites to use https|
-(chrome extension) Extensity|Manage your extensions|
-(chrome extension) Return Youtube Dislike|Bring back youtube dislike count|
-(chrome extension) Unhook|A tool to prevent too much binging on youtube|
-(chrome extension) WebRTC Leak Shield|Prevent WebRTC leaks|
+(chrome extension) Pin all tabs|Pins all tabs|https://chrome.google.com/webstore/detail/ggdflfnbccnnmnejiblifjjgeiepdjop|
+(chrome extension) HTTPS Everywhere|Forces websites to use https|https://www.eff.org/https-everywhere|
+(chrome extension) Extensity|Manage your extensions|https://chrome.google.com/webstore/detail/jjmflmamggggndanpgfnpelongoepncg|
+(chrome extension) Return Youtube Dislike|Bring back youtube dislike count|https://chrome.google.com/webstore/detail/gebbhagfogifgggkldgodflihgfeippi|
+(chrome extension) Unhook|A tool to prevent too much binging/bingeing on youtube|https://chrome.google.com/webstore/detail/khncfooichmfjbepaaaebmommgaepoid|
+(chrome extension) WebRTC Leak Shield|Prevent WebRTC leaks|https://chrome.google.com/webstore/detail/bppamachkoflopbagkdoflbgfjflfnfl|
