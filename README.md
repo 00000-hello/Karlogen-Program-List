@@ -15,6 +15,7 @@ internet download manager|A tool to manage downloads|https://www.internetdownloa
 kdenlive|A video creator/editor|https://kdenlive.org/en/|
 krita|A free and open source painting program|https://krita.org/en/|
 lively| A tool for making and using animated wallpapers|https://github.com/rocksdanister/lively|
+|luxe engine|A game engine I can't wait to come out|https://luxeengine.com|
 no-edge|Remove edge|https://github.com/BiltuDas1/no-edge|
 notepad++|A text and source code editor|https://notepad-plus-plus.org/downloads/|
 obs studio w/ obs.live|A screencasting and streaming app|https://obsproject.com https://streamelements.com/selive|
@@ -41,3 +42,4 @@ youtube-dl|A command-line program to download videos from youtube.com|https://yo
 (chrome extension) Return Youtube Dislike|Bring back youtube dislike count|https://chrome.google.com/webstore/detail/gebbhagfogifgggkldgodflihgfeippi|
 (chrome extension) Unhook|A tool to prevent too much binging/bingeing on youtube|https://chrome.google.com/webstore/detail/khncfooichmfjbepaaaebmommgaepoid|
 (chrome extension) WebRTC Leak Shield|Prevent WebRTC leaks|https://chrome.google.com/webstore/detail/bppamachkoflopbagkdoflbgfjflfnfl|
+(website) Pixray|Generate images from text|https://pixray.gob.io/|
