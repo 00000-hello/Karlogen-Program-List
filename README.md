@@ -35,7 +35,6 @@ vivaldi|An internet browser w/ more features & functionality (chromium based)|ht
 voicemeter banana|(Realtime?) advanced audio mixer application|https://vb-audio.com/Voicemeeter/banana.htm|
 vseeface|A Face and hand tracking VRM and VSFAvatar avatar puppeteering program|https://www.vseeface.icu|
 youtube-dl|A command-line program to download videos from youtube.com|https://youtube-dl.org
-|||
 (chrome extension) Pin all tabs|Pins all tabs|https://chrome.google.com/webstore/detail/ggdflfnbccnnmnejiblifjjgeiepdjop|
 (chrome extension) HTTPS Everywhere|Forces websites to use https|https://www.eff.org/https-everywhere|
 (chrome extension) Extensity|Manage your extensions|https://chrome.google.com/webstore/detail/jjmflmamggggndanpgfnpelongoepncg|
