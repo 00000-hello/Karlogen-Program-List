@@ -52,3 +52,4 @@ youtube-dl|A command-line program to download videos from youtube.com|https://yo
 (website) Google Translate Web - iTools|Google translate pages|http://itools.com/tool/google-translate-web-page-translator|
 (website) LunaPic| Free Online Photo Editor |https://www5.lunapic.com/editor/|
 (website) Artbreeder|Breed/Generate art|https://www.artbreeder.com/|
+(website) arXiv|arXiv is a free distribution service and an open-access archive for scholarly articles|https://arxiv.org|
