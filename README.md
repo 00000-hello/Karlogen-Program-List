@@ -53,3 +53,4 @@ youtube-dl|A command-line program to download videos from youtube.com|https://yo
 (website) LunaPic| Free Online Photo Editor |https://www5.lunapic.com/editor/|
 (website) Artbreeder|Breed/Generate art|https://www.artbreeder.com/|
 (website) arXiv|arXiv is a free distribution service and an open-access archive for scholarly articles|https://arxiv.org|
+(website) DistroTest|The first online operating system tester|https://distrotest.net/|
