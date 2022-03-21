@@ -11,6 +11,7 @@ git/git-scm)|A version-control system|https://git-scm.com|
 guru3d rtss|A frame rate + hardware monitor w/ frame limiting & more|https://www.guru3d.com/files-details/rtss-rivatuner-statistics-server-download.html|
 HWiNFO| A free system information tool for Windows|https://www.hwinfo.com|
 hxd|A hex, disk, and memory editor|https://mh-nexus.de/en/hxd/|
+ImageGlass|A lightweight, versatile image viewer|https://imageglass.org|
 internet download manager|A tool to manage downloads|https://www.internetdownloadmanager.com|
 kdenlive|A video creator/editor|https://kdenlive.org/en/|
 krita|A free and open source painting program|https://krita.org/en/|
